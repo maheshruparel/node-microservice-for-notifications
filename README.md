@@ -1,4 +1,4 @@
-# node-microservice-for-notifications
+# Node Microservice for Notifications
 A NodeJS demo project to send notifications with Microservices.
 
 
