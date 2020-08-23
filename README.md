@@ -8,7 +8,8 @@ A NodeJS demo project to send notifications with Microservices.
 2. Sub setup - Microserice for mail notifications
 
 
-1) Main Setup
+Main Setup
+----------
 Folder : Ecomm
 Access URL : localhost:5555
 
