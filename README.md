@@ -11,10 +11,13 @@ A NodeJS demo project to send notifications with Microservices.
 Main Setup
 ----------
 Folder : Ecomm
+
 Access URL : localhost:5555
 
-2) Microserice
+Microserice
+-
 Folder : MFNotif
+
 Access URL : localhost:5511
 
 Start Both Node servers
