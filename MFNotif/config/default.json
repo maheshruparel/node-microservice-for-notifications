@@ -1,0 +1,15 @@
+{
+    "expressPort": 5511,
+    "smtpConfig": {
+        "host": "smtp.gmail.com",
+        "port": "465",
+        "secure": "true",
+        "auth": {
+        "user": "emailst99@gmail.com",
+        "pass": "Test1@34"
+        }
+    },
+    "mailTo": "emailst99@gmail.com",
+    "useDefaultTestEmail": true
+}
+  

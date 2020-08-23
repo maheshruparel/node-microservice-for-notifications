@@ -1,0 +1,4 @@
+{
+  "expressPort": 5555,
+  "mfnotifUrl": "http://localhost:5511/sendNotification"
+}
