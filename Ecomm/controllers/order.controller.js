@@ -36,7 +36,7 @@ const getCustomer = ( customers, customerID, ) => {
     return customer[0];
 }
 
-// functio to be called with API
+// function to be called with API
 controller.updateStatus =  async (req, res) => {
     const {customerID} = req.body;
     const {orderStatusID} = req.body;
