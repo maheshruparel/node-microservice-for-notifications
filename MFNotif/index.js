@@ -35,6 +35,7 @@ const sendEmailNotification = (customer, updatedOrderStatus) => {
         return true;
     } catch (e) {
         if (e) {
+            console.log(e);
             return false;
         }
     }
